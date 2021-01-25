@@ -1,23 +1,5 @@
 [
   {
-    "title": "Best of 2020",
-    "slug": "Bestof2020",
-    "download": "3.368k",
-    "total_track": "10",
-    "islock": false,
-    "image": "",
-    "category_id": "1"
-  },
-  {
-    "title": "New Ringtones",
-    "slug": "NewRingtones",
-    "download": "2.308k",
-    "total_track": "10",
-    "islock": false,
-    "image": "",
-    "category_id": "2"
-  },
-  {
     "title": "Funny",
     "slug": "Funny",
     "download": "4.351k",
